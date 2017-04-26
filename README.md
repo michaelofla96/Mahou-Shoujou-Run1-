@@ -40,7 +40,7 @@ New Game
 
 Settings
 
-- Can Mute sounds and return to Main Menu. Highlighted buttons are also used here.
+- Can Mute sounds and return to Main Menu.
 
 Help
 
