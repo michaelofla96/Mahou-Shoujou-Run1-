@@ -1,8 +1,9 @@
 # Mahou-Shoujou-Run1-
-Assignment 3
+# Assignment 3
+
 Sean Meyler
 C15431532
- DT228 -2 Object Oriented Programming
+DT228 -2 Object Oriented Programming
 
 # Youtube Video
 
