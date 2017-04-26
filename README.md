@@ -9,7 +9,7 @@ DT228 -2 Object Oriented Programming
 
 [![Video](http://img.youtube.com/vi/-jXwU1Bzw4o/0.jpg)](http://www.youtube.com/watch?v=-jXwU1Bzw4o&feature=youtu.beE)
 
-For my third assignment I decided to make another game titled Mahou Shoujo Run! The game is an endless runner type game where the Mahou Shoujo must run through a dangerous cave collecting gems and avoid spikes and stalactites. The art was created by myself in Photoshop as were the 2 main soundtracks which were created in MuseScore. I just an anime style for the characters and a cartoonish look for the obstacles.
+For my third assignment I decided to make another game titled Mahou Shoujo Run! The game is an endless runner type game where the Mahou Shoujo must run through a dangerous cave collecting gems and avoid spikes and stalactites. The art was created by myself in Photoshop as were the 2 main soundtracks which were created in MuseScore. I used an anime style for the characters and a cartoonish look for the obstacles as well as 8-bit Midi sounds for the soundtrack.
 The game is made with Unity and coded in C#.
 
 # Features
